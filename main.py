@@ -10,7 +10,7 @@ from pyomo.opt import SolverFactory, SolverStatus, TerminationCondition
 # CBC Portable Solver Patch
 # ====================================================
 # GANTI PATH INI SESUAI LOKASI CBC.EXE PADA SISTEM BOS
-CBC_PATH = r"D:\ME\S2\matkul\pemodelan_sistem_smt_1\tugas-after-uts\olah-data\cbc\bin\cbc.exe"
+CBC_PATH = r"D:\Solver\cbc\bin\cbc.exe"
 
 def load_cbc_solver():
     """Load CBC portable - WORKING VERSION"""
