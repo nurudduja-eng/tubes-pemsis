@@ -1,0 +1,4 @@
+mill,kapasitas_ton,biaya_proses,biaya_tetap,efisiensi
+G1,150,280000,12000000,0.93
+G2,90,350000,7500000,0.90
+G3,60,420000,5000000,0.88
